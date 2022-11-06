@@ -1,5 +1,6 @@
 // 11_5_22_SCS.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //continue on building text editor
+//this is the only file (for now) for the entire project, so this is the only one you need to compile.
 
 #include <iostream>
 #include <cstdio>
