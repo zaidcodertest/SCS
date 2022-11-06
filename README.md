@@ -1,2 +1,3 @@
 # SCS
-new look into layouts
+new look into layouts,
+making it look more straight forward.
